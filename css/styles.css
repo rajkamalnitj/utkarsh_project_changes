@@ -1,0 +1,120 @@
+#title{
+    background-color:red;
+}
+#features{
+    padding: 8% 15% 2%;
+    text-align: center;
+    margin:0% 7% 10%;
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
+#testimonials{
+    background-color: red;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 2em;
+    color:white;
+    padding-top: 5%;
+}
+#testimonials h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+ 
+#press{
+    background-color: red;
+    padding:5% 12% 2%;
+    text-align: center;
+    padding-bottom: 7%;
+}
+#pricing{
+    text-align: center;
+    padding: 5% 17%;
+    margin-top: 6%;
+}
+.carousel-item{
+    padding:5% 17%;
+    font-family: 'Roboto Slab', serif;
+
+}
+.cards h3{
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.1em;
+}
+.cards h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+}
+.carousel-indicators {
+    visibility: hidden; 
+}
+/* @media (max-width:900px) {
+     .firstDogimage{
+        position:static;
+        transform: rotate(90deg);
+     }
+} */
+
+.container-fluid{
+    padding: 3% 15% 5%;
+}
+.cards{
+    margin-top: 15%;
+}
+.myclass{
+    color:rgb(247, 76, 8);
+}
+.mysecondclass{
+    color: rgb(247, 76, 8);
+}
+#cta {
+  background-color:red;
+  margin-top: 5%; 
+  text-align: center;
+  padding: 5% 15%;
+  color:white;
+  font-family: 'Roboto Slab', serif;
+}
+#cta h3{
+    font-size: 3em;
+    padding-bottom: 30px;
+}
+.mythirdclass{
+    color:rgb(231, 93, 29);
+}
+.icon:hover{
+    color: red;
+}
+.firstDogimage{
+    width: 60%;
+    transform: rotate(25deg);
+    position:absolute ;  
+    right: 25%;
+}
+#socialmediaIcons{
+    text-align: center;
+    margin: 10% 2% 0%;
+}
+#socialmediaIcons p{
+    color: gray;
+    padding: 1% 0% 10%;
+}
+.download{
+    margin:0% 4% 5% 0%;
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.navbar-brand{
+    font-family: "Ubuntu" ;
+    font-size: 2em ;
+    padding-left: 0;
+}
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2em;
+}
